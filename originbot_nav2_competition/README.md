@@ -1,1 +1,0 @@
-# originbot_nav2_competition
